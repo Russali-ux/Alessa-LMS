@@ -8,9 +8,9 @@ import {
 
 import SidebarMainMenu from "./Components/Sidebar/SidebarMainMenu";
 
-import { Button } from "./Components/UI/button";
-import { Input } from "./Components/UI/input";
-import { Card, CardContent, CardDescription, CardHeader, CardTitle } from "./Components/UI/card";
+import { Button } from "./Components/ui/button";
+import { Input } from "./Components/ui/input";
+import { Card, CardContent, CardDescription, CardHeader, CardTitle } from "./Components/ui/card";
 
 // Componentes temporales usando el sistema de UI
 const PlaceholderPage = ({ title }) => (
