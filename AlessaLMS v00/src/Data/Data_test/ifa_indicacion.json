@@ -1,0 +1,166 @@
+[
+  {
+    "id": "IFA_IND_001",
+    "ifa_id": "IFA_001",
+    "indication_id": "IND_001"
+  },
+  {
+    "id": "IFA_IND_002",
+    "ifa_id": "IFA_001",
+    "indication_id": "IND_002"
+  },
+  {
+    "id": "IFA_IND_003",
+    "ifa_id": "IFA_001",
+    "indication_id": "IND_003"
+  },
+  {
+    "id": "IFA_IND_004",
+    "ifa_id": "IFA_001",
+    "indication_id": "IND_015"
+  },
+
+  {
+    "id": "IFA_IND_005",
+    "ifa_id": "IFA_002",
+    "indication_id": "IND_001"
+  },
+  {
+    "id": "IFA_IND_006",
+    "ifa_id": "IFA_002",
+    "indication_id": "IND_002"
+  },
+  {
+    "id": "IFA_IND_007",
+    "ifa_id": "IFA_002",
+    "indication_id": "IND_003"
+  },
+
+  {
+    "id": "IFA_IND_008",
+    "ifa_id": "IFA_003",
+    "indication_id": "IND_001"
+  },
+  {
+    "id": "IFA_IND_009",
+    "ifa_id": "IFA_003",
+    "indication_id": "IND_002"
+  },
+
+  {
+    "id": "IFA_IND_010",
+    "ifa_id": "IFA_004",
+    "indication_id": "IND_008"
+  },
+
+  {
+    "id": "IFA_IND_011",
+    "ifa_id": "IFA_005",
+    "indication_id": "IND_008"
+  },
+
+  {
+    "id": "IFA_IND_012",
+    "ifa_id": "IFA_006",
+    "indication_id": "IND_008"
+  },
+
+  {
+    "id": "IFA_IND_013",
+    "ifa_id": "IFA_007",
+    "indication_id": "IND_008"
+  },
+
+  {
+    "id": "IFA_IND_014",
+    "ifa_id": "IFA_008",
+    "indication_id": "IND_012"
+  },
+
+  {
+    "id": "IFA_IND_015",
+    "ifa_id": "IFA_009",
+    "indication_id": "IND_009"
+  },
+
+  {
+    "id": "IFA_IND_016",
+    "ifa_id": "IFA_010",
+    "indication_id": "IND_010"
+  },
+  {
+    "id": "IFA_IND_017",
+    "ifa_id": "IFA_010",
+    "indication_id": "IND_011"
+  },
+
+  {
+    "id": "IFA_IND_018",
+    "ifa_id": "IFA_011",
+    "indication_id": "IND_004"
+  },
+
+  {
+    "id": "IFA_IND_019",
+    "ifa_id": "IFA_012",
+    "indication_id": "IND_004"
+  },
+  {
+    "id": "IFA_IND_020",
+    "ifa_id": "IFA_012",
+    "indication_id": "IND_005"
+  },
+  {
+    "id": "IFA_IND_021",
+    "ifa_id": "IFA_012",
+    "indication_id": "IND_006"
+  },
+  {
+    "id": "IFA_IND_022",
+    "ifa_id": "IFA_012",
+    "indication_id": "IND_007"
+  },
+
+  {
+    "id": "IFA_IND_023",
+    "ifa_id": "IFA_013",
+    "indication_id": "IND_004"
+  },
+  {
+    "id": "IFA_IND_024",
+    "ifa_id": "IFA_013",
+    "indication_id": "IND_013"
+  },
+
+  {
+    "id": "IFA_IND_025",
+    "ifa_id": "IFA_014",
+    "indication_id": "IND_004"
+  },
+  {
+    "id": "IFA_IND_026",
+    "ifa_id": "IFA_014",
+    "indication_id": "IND_006"
+  },
+  {
+    "id": "IFA_IND_027",
+    "ifa_id": "IFA_014",
+    "indication_id": "IND_007"
+  },
+
+  {
+    "id": "IFA_IND_028",
+    "ifa_id": "IFA_015",
+    "indication_id": "IND_004"
+  },
+  {
+    "id": "IFA_IND_029",
+    "ifa_id": "IFA_015",
+    "indication_id": "IND_005"
+  },
+  {
+    "id": "IFA_IND_030",
+    "ifa_id": "IFA_015",
+    "indication_id": "IND_014"
+  }
+]
