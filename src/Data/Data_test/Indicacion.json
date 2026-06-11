@@ -1,0 +1,122 @@
+[
+  {
+    "id": "IND_001",
+    "meddra_code": "10006464",
+    "meddra_term": "Kidney Transplantation",
+    "cie10_code": "Z94.0",
+    "cie10_name": "Kidney Transplant Status",
+    "free_text": "Prophylaxis of organ rejection in kidney transplant recipients."
+  },
+  {
+    "id": "IND_002",
+    "meddra_code": "10006465",
+    "meddra_term": "Liver Transplantation",
+    "cie10_code": "Z94.4",
+    "cie10_name": "Liver Transplant Status",
+    "free_text": "Prophylaxis of organ rejection in liver transplant recipients."
+  },
+  {
+    "id": "IND_003",
+    "meddra_code": "10006466",
+    "meddra_term": "Heart Transplantation",
+    "cie10_code": "Z94.1",
+    "cie10_name": "Heart Transplant Status",
+    "free_text": "Prophylaxis of organ rejection in heart transplant recipients."
+  },
+  {
+    "id": "IND_004",
+    "meddra_code": "10062492",
+    "meddra_term": "Rheumatoid Arthritis",
+    "cie10_code": "M06.9",
+    "cie10_name": "Rheumatoid Arthritis",
+    "free_text": "Treatment of moderate to severe rheumatoid arthritis."
+  },
+  {
+    "id": "IND_005",
+    "meddra_code": "10037175",
+    "meddra_term": "Psoriasis",
+    "cie10_code": "L40.9",
+    "cie10_name": "Psoriasis",
+    "free_text": "Treatment of moderate to severe plaque psoriasis."
+  },
+  {
+    "id": "IND_006",
+    "meddra_code": "10022117",
+    "meddra_term": "Crohn's Disease",
+    "cie10_code": "K50.9",
+    "cie10_name": "Crohn Disease",
+    "free_text": "Treatment of moderate to severe Crohn disease."
+  },
+  {
+    "id": "IND_007",
+    "meddra_code": "10045150",
+    "meddra_term": "Ulcerative Colitis",
+    "cie10_code": "K51.9",
+    "cie10_name": "Ulcerative Colitis",
+    "free_text": "Treatment of moderate to severe ulcerative colitis."
+  },
+  {
+    "id": "IND_008",
+    "meddra_code": "10004223",
+    "meddra_term": "Epilepsy",
+    "cie10_code": "G40.9",
+    "cie10_name": "Epilepsy",
+    "free_text": "Adjunctive treatment of partial and generalized seizures."
+  },
+  {
+    "id": "IND_009",
+    "meddra_code": "10023513",
+    "meddra_term": "Breast Cancer",
+    "cie10_code": "C50.9",
+    "cie10_name": "Malignant Neoplasm of Breast",
+    "free_text": "Treatment of HER2-positive breast cancer."
+  },
+  {
+    "id": "IND_010",
+    "meddra_code": "10029104",
+    "meddra_term": "Non-small Cell Lung Cancer",
+    "cie10_code": "C34.9",
+    "cie10_name": "Malignant Neoplasm of Bronchus and Lung",
+    "free_text": "Treatment of advanced NSCLC."
+  },
+  {
+    "id": "IND_011",
+    "meddra_code": "10028533",
+    "meddra_term": "Melanoma",
+    "cie10_code": "C43.9",
+    "cie10_name": "Malignant Melanoma",
+    "free_text": "Treatment of unresectable or metastatic melanoma."
+  },
+  {
+    "id": "IND_012",
+    "meddra_code": "10027433",
+    "meddra_term": "Lymphoma",
+    "cie10_code": "C85.9",
+    "cie10_name": "Non-Hodgkin Lymphoma",
+    "free_text": "Treatment of CD20-positive B-cell lymphoma."
+  },
+  {
+    "id": "IND_013",
+    "meddra_code": "10002034",
+    "meddra_term": "Ankylosing Spondylitis",
+    "cie10_code": "M45",
+    "cie10_name": "Ankylosing Spondylitis",
+    "free_text": "Treatment of active ankylosing spondylitis."
+  },
+  {
+    "id": "IND_014",
+    "meddra_code": "10056828",
+    "meddra_term": "Psoriatic Arthritis",
+    "cie10_code": "L40.5",
+    "cie10_name": "Psoriatic Arthropathy",
+    "free_text": "Treatment of active psoriatic arthritis."
+  },
+  {
+    "id": "IND_015",
+    "meddra_code": "10061428",
+    "meddra_term": "Graft Rejection",
+    "cie10_code": "T86.9",
+    "cie10_name": "Transplant Complication",
+    "free_text": "Treatment of acute rejection episodes resistant to standard immunosuppression."
+  }
+]

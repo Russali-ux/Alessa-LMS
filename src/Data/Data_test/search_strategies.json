@@ -1,0 +1,268 @@
+[
+  {
+    "id": "STR_001",
+    "ifa_id": "IFA_001",
+    "strategy_name": "Baseline Efficacy",
+    "strategy_category": "BENEFIT",
+    "frequency": "ONCE",
+    "active": true
+  },
+  {
+    "id": "STR_002",
+    "ifa_id": "IFA_001",
+    "strategy_name": "Monitoring Safety",
+    "strategy_category": "GENERAL_SAFETY",
+    "frequency": "MONTHLY",
+    "active": true
+  },
+  {
+    "id": "STR_003",
+    "ifa_id": "IFA_001",
+    "strategy_name": "Pregnancy",
+    "strategy_category": "TARGETED_RISK",
+    "frequency": "QUARTERLY",
+    "active": true
+  },
+  {
+    "id": "STR_004",
+    "ifa_id": "IFA_001",
+    "strategy_name": "Nephrotoxicity",
+    "strategy_category": "TARGETED_RISK",
+    "frequency": "MONTHLY",
+    "active": true
+  },
+
+  {
+    "id": "STR_005",
+    "ifa_id": "IFA_002",
+    "strategy_name": "Baseline Efficacy",
+    "strategy_category": "BENEFIT",
+    "frequency": "ONCE",
+    "active": true
+  },
+  {
+    "id": "STR_006",
+    "ifa_id": "IFA_002",
+    "strategy_name": "Monitoring Safety",
+    "strategy_category": "GENERAL_SAFETY",
+    "frequency": "MONTHLY",
+    "active": true
+  },
+  {
+    "id": "STR_007",
+    "ifa_id": "IFA_002",
+    "strategy_name": "Nephrotoxicity",
+    "strategy_category": "TARGETED_RISK",
+    "frequency": "MONTHLY",
+    "active": true
+  },
+
+  {
+    "id": "STR_008",
+    "ifa_id": "IFA_003",
+    "strategy_name": "Baseline Efficacy",
+    "strategy_category": "BENEFIT",
+    "frequency": "ONCE",
+    "active": true
+  },
+  {
+    "id": "STR_009",
+    "ifa_id": "IFA_003",
+    "strategy_name": "Monitoring Safety",
+    "strategy_category": "GENERAL_SAFETY",
+    "frequency": "MONTHLY",
+    "active": true
+  },
+
+  {
+    "id": "STR_010",
+    "ifa_id": "IFA_004",
+    "strategy_name": "Baseline Efficacy",
+    "strategy_category": "BENEFIT",
+    "frequency": "ONCE",
+    "active": true
+  },
+  {
+    "id": "STR_011",
+    "ifa_id": "IFA_004",
+    "strategy_name": "Monitoring Safety",
+    "strategy_category": "GENERAL_SAFETY",
+    "frequency": "QUARTERLY",
+    "active": true
+  },
+
+  {
+    "id": "STR_012",
+    "ifa_id": "IFA_005",
+    "strategy_name": "Baseline Efficacy",
+    "strategy_category": "BENEFIT",
+    "frequency": "ONCE",
+    "active": true
+  },
+  {
+    "id": "STR_013",
+    "ifa_id": "IFA_005",
+    "strategy_name": "Monitoring Safety",
+    "strategy_category": "GENERAL_SAFETY",
+    "frequency": "QUARTERLY",
+    "active": true
+  },
+  {
+    "id": "STR_014",
+    "ifa_id": "IFA_005",
+    "strategy_name": "Pregnancy",
+    "strategy_category": "TARGETED_RISK",
+    "frequency": "QUARTERLY",
+    "active": true
+  },
+
+  {
+    "id": "STR_015",
+    "ifa_id": "IFA_006",
+    "strategy_name": "Baseline Efficacy",
+    "strategy_category": "BENEFIT",
+    "frequency": "ONCE",
+    "active": true
+  },
+  {
+    "id": "STR_016",
+    "ifa_id": "IFA_006",
+    "strategy_name": "Monitoring Safety",
+    "strategy_category": "GENERAL_SAFETY",
+    "frequency": "MONTHLY",
+    "active": true
+  },
+  {
+    "id": "STR_017",
+    "ifa_id": "IFA_006",
+    "strategy_name": "Pregnancy",
+    "strategy_category": "TARGETED_RISK",
+    "frequency": "MONTHLY",
+    "active": true
+  },
+
+  {
+    "id": "STR_018",
+    "ifa_id": "IFA_008",
+    "strategy_name": "Baseline Efficacy",
+    "strategy_category": "BENEFIT",
+    "frequency": "ONCE",
+    "active": true
+  },
+  {
+    "id": "STR_019",
+    "ifa_id": "IFA_008",
+    "strategy_name": "Monitoring Safety",
+    "strategy_category": "GENERAL_SAFETY",
+    "frequency": "MONTHLY",
+    "active": true
+  },
+  {
+    "id": "STR_020",
+    "ifa_id": "IFA_008",
+    "strategy_name": "Infusion Reactions",
+    "strategy_category": "TARGETED_RISK",
+    "frequency": "MONTHLY",
+    "active": true
+  },
+
+  {
+    "id": "STR_021",
+    "ifa_id": "IFA_009",
+    "strategy_name": "Baseline Efficacy",
+    "strategy_category": "BENEFIT",
+    "frequency": "ONCE",
+    "active": true
+  },
+  {
+    "id": "STR_022",
+    "ifa_id": "IFA_009",
+    "strategy_name": "Monitoring Safety",
+    "strategy_category": "GENERAL_SAFETY",
+    "frequency": "MONTHLY",
+    "active": true
+  },
+  {
+    "id": "STR_023",
+    "ifa_id": "IFA_009",
+    "strategy_name": "Cardiotoxicity",
+    "strategy_category": "TARGETED_RISK",
+    "frequency": "MONTHLY",
+    "active": true
+  },
+
+  {
+    "id": "STR_024",
+    "ifa_id": "IFA_010",
+    "strategy_name": "Baseline Efficacy",
+    "strategy_category": "BENEFIT",
+    "frequency": "ONCE",
+    "active": true
+  },
+  {
+    "id": "STR_025",
+    "ifa_id": "IFA_010",
+    "strategy_name": "Monitoring Safety",
+    "strategy_category": "GENERAL_SAFETY",
+    "frequency": "MONTHLY",
+    "active": true
+  },
+  {
+    "id": "STR_026",
+    "ifa_id": "IFA_010",
+    "strategy_name": "Immune Related Adverse Events",
+    "strategy_category": "TARGETED_RISK",
+    "frequency": "MONTHLY",
+    "active": true
+  },
+
+  {
+    "id": "STR_027",
+    "ifa_id": "IFA_012",
+    "strategy_name": "Baseline Efficacy",
+    "strategy_category": "BENEFIT",
+    "frequency": "ONCE",
+    "active": true
+  },
+  {
+    "id": "STR_028",
+    "ifa_id": "IFA_012",
+    "strategy_name": "Monitoring Safety",
+    "strategy_category": "GENERAL_SAFETY",
+    "frequency": "MONTHLY",
+    "active": true
+  },
+  {
+    "id": "STR_029",
+    "ifa_id": "IFA_012",
+    "strategy_name": "Tuberculosis",
+    "strategy_category": "TARGETED_RISK",
+    "frequency": "MONTHLY",
+    "active": true
+  },
+
+  {
+    "id": "STR_030",
+    "ifa_id": "IFA_015",
+    "strategy_name": "Baseline Efficacy",
+    "strategy_category": "BENEFIT",
+    "frequency": "ONCE",
+    "active": true
+  },
+  {
+    "id": "STR_031",
+    "ifa_id": "IFA_015",
+    "strategy_name": "Monitoring Safety",
+    "strategy_category": "GENERAL_SAFETY",
+    "frequency": "MONTHLY",
+    "active": true
+  },
+  {
+    "id": "STR_032",
+    "ifa_id": "IFA_015",
+    "strategy_name": "Major Adverse Cardiovascular Events",
+    "strategy_category": "TARGETED_RISK",
+    "frequency": "MONTHLY",
+    "active": true
+  }
+]

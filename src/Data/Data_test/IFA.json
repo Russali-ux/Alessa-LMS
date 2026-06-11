@@ -1,0 +1,137 @@
+[
+  {
+    "id": "IFA_001",
+    "ifa_name": "Tacrolimus",
+    "atc_code": "L04AD02",
+    "atc4_name": "Immunosuppressants",
+    "atc5_name": "Tacrolimus",
+    "monitoring_level": "A",
+    "active": true
+  },
+  {
+    "id": "IFA_002",
+    "ifa_name": "Cyclosporine",
+    "atc_code": "L04AD01",
+    "atc4_name": "Immunosuppressants",
+    "atc5_name": "Cyclosporine",
+    "monitoring_level": "A",
+    "active": true
+  },
+  {
+    "id": "IFA_003",
+    "ifa_name": "Mycophenolate Mofetil",
+    "atc_code": "L04AA06",
+    "atc4_name": "Selective Immunosuppressants",
+    "atc5_name": "Mycophenolate Mofetil",
+    "monitoring_level": "A",
+    "active": true
+  },
+  {
+    "id": "IFA_004",
+    "ifa_name": "Levetiracetam",
+    "atc_code": "N03AX14",
+    "atc4_name": "Other Antiepileptics",
+    "atc5_name": "Levetiracetam",
+    "monitoring_level": "B",
+    "active": true
+  },
+  {
+    "id": "IFA_005",
+    "ifa_name": "Carbamazepine",
+    "atc_code": "N03AF01",
+    "atc4_name": "Antiepileptics",
+    "atc5_name": "Carbamazepine",
+    "monitoring_level": "B",
+    "active": true
+  },
+  {
+    "id": "IFA_006",
+    "ifa_name": "Valproic Acid",
+    "atc_code": "N03AG01",
+    "atc4_name": "Fatty Acid Derivatives",
+    "atc5_name": "Valproic Acid",
+    "monitoring_level": "A",
+    "active": true
+  },
+  {
+    "id": "IFA_007",
+    "ifa_name": "Lamotrigine",
+    "atc_code": "N03AX09",
+    "atc4_name": "Other Antiepileptics",
+    "atc5_name": "Lamotrigine",
+    "monitoring_level": "B",
+    "active": true
+  },
+  {
+    "id": "IFA_008",
+    "ifa_name": "Rituximab",
+    "atc_code": "L01XC02",
+    "atc4_name": "Monoclonal Antibodies",
+    "atc5_name": "Rituximab",
+    "monitoring_level": "A",
+    "active": true
+  },
+  {
+    "id": "IFA_009",
+    "ifa_name": "Trastuzumab",
+    "atc_code": "L01XC03",
+    "atc4_name": "Monoclonal Antibodies",
+    "atc5_name": "Trastuzumab",
+    "monitoring_level": "A",
+    "active": true
+  },
+  {
+    "id": "IFA_010",
+    "ifa_name": "Pembrolizumab",
+    "atc_code": "L01XC18",
+    "atc4_name": "Monoclonal Antibodies",
+    "atc5_name": "Pembrolizumab",
+    "monitoring_level": "A",
+    "active": true
+  },
+  {
+    "id": "IFA_011",
+    "ifa_name": "Methotrexate",
+    "atc_code": "L01BA01",
+    "atc4_name": "Antimetabolites",
+    "atc5_name": "Methotrexate",
+    "monitoring_level": "B",
+    "active": true
+  },
+  {
+    "id": "IFA_012",
+    "ifa_name": "Adalimumab",
+    "atc_code": "L04AB04",
+    "atc4_name": "TNF-alpha Inhibitors",
+    "atc5_name": "Adalimumab",
+    "monitoring_level": "A",
+    "active": true
+  },
+  {
+    "id": "IFA_013",
+    "ifa_name": "Etanercept",
+    "atc_code": "L04AB01",
+    "atc4_name": "TNF-alpha Inhibitors",
+    "atc5_name": "Etanercept",
+    "monitoring_level": "B",
+    "active": true
+  },
+  {
+    "id": "IFA_014",
+    "ifa_name": "Infliximab",
+    "atc_code": "L04AB02",
+    "atc4_name": "TNF-alpha Inhibitors",
+    "atc5_name": "Infliximab",
+    "monitoring_level": "A",
+    "active": true
+  },
+  {
+    "id": "IFA_015",
+    "ifa_name": "Tofacitinib",
+    "atc_code": "L04AA29",
+    "atc4_name": "Selective Immunosuppressants",
+    "atc5_name": "Tofacitinib",
+    "monitoring_level": "A",
+    "active": true
+  }
+]
